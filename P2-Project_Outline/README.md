@@ -32,9 +32,10 @@ For this assignment, you will submit a high-level outline of your project. This 
         Add, Update and Delete Student
         Add, Update and Delete classrooms.
         Plan to display the data in data table where admin can
-            Filter the record by teacher, student or class name.
+            Filter the record by teacher,student or class name.
         Download the data into CSV format.
         	Class, Teacher and Student data.
+        Search: Admin will be able to search details containing given text.
 •	Teacher Module
         Add, Update and Delete the assignments to the class.
         Data table to perform the following operations.
