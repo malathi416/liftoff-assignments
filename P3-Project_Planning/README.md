@@ -9,11 +9,15 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+https://github.com/malathi416/school-project-demo/blob/master/Main%20Wireframe.pdf
+https://github.com/malathi416/school-project-demo/blob/master/wireframe%202.pdf
+https://github.com/malathi416/school-project-demo/blob/master/wireframe%201.pdf
+https://github.com/malathi416/school-project-demo/blob/master/Wireframe%204.pdf
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/UK5kMYYw/liftoff-project
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/malathi416/school-project-demo
