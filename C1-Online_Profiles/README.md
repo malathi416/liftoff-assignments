@@ -7,9 +7,11 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
+
 https://github.com/malathi416/school-project-demo
  
 ### LinkedIn
+
 https://www.linkedin.com/feed/
 
 ### Resume
